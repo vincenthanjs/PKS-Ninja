@@ -4,7 +4,15 @@
 
 The steps in this lab access a wavefront intance that is only accessible to VMware emlployees, including accessing a pre-built PKS Dashboard. If you are not a VMware employee, you can follow along using your own wavefront account, but some steps may be different.
 
-1.1.1 From your workstation on the VMware network or vpn, open a web browser and go to Workspace ONE and search for "Wavefront-sandbox"
+For Non-VMware:
+1.1.1 Open your browser on your laptop or thin client machine, go to https://try.wavefront.com. Click on Register for a Trial. You need to access your email to get the activation link.
+
+1.1.1a After you got your account. In your lab, open a web broswer and go to https://longboard.wavefront.com. Continue to step 1.1.2.
+
+For VMware Employee:
+
+1.1.1 From your workstation on the VMware network or vpn, open a web browser and go to Workspace ONE and search for "Wavefront-sandbox". Continue to step 1.1.2.
+
 
 <details><summary>Screenshot 1.1.1</summary>
 <img src="Images/1.png">
